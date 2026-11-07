@@ -66,9 +66,9 @@ Optional: set `NEXT_PUBLIC_SITE_URL=https://eduapp.example.com` to control canon
 All data in this repository is randomly generated; brand names are anonymized.
 Contacts, links and video URLs are placeholders (`EduApp`, `eduapp.example.com`, `+7 700 000 00 00`).
 
-## Қысқаша (KZ)
+## Кратко (RU)
 
-«Алтын сақа» олимпиадасының аудандық кезеңіне дайындық курсы бойынша ата-аналарға арналған сұрақ-жауап сайты.
-Next.js 16 + TypeScript + Tailwind CSS 4, қазақ (`/`) және орыс (`/ru`) тілдерінде, толығымен статикалық.
-Мазмұн `src/content` ішіндегі файлдарда, құрастыру алдында арнайы скрипт тексереді.
-Іске қосу: `npm ci && npm run dev`. Бренд пен байланыс деректері ойдан алынған.
+Сайт вопросов и ответов для родителей курса подготовки к районному этапу олимпиады «Алтын сақа».
+Next.js 16 + TypeScript + Tailwind CSS 4, казахский (`/`) и русский (`/ru`) языки, полностью статический.
+Контент лежит в `src/content`, перед сборкой его проверяет отдельный скрипт.
+Запуск: `npm ci && npm run dev`. Бренд и контакты вымышлены.
